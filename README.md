@@ -30,3 +30,5 @@ Currently part of the 2027 batch, I am actively bridging academic research in em
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/haricharan052006"><img src="https://github-readme-stats.vercel.app/api?username=haricharan052006&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="haricharan052006's GitHub stats" /></a>
+
+<img width="367" height="402" alt="image" src="https://github.com/user-attachments/assets/8b597e51-0792-4e6e-aa4d-a8fe260af05d" />
